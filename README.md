@@ -1,3 +1,3 @@
 # My-First-Repo
 
-This is a test of github.
+This is text indicating a branch of the main repo.
